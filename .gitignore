@@ -48,6 +48,7 @@ Temporary Items
 
 #PHPTravels files to be ignored
 *.settings*
+*target*
 *.classpath*
 *.project*
 
