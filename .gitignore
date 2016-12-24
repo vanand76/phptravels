@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#PHPTravels files to be ignored
+*.settings*
+*.classpath*
+*.project*
+
+
+
